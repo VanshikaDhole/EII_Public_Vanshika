@@ -1,0 +1,21 @@
+ID,type_code,descr,price,currency_code
+601AB,FP,Food Pass for meals and drinks,499,INR
+602BC,MD,Event Merchandise Kit,899,INR
+603CD,VL,Access to VIP Lounge,2500,INR
+604DE,PK,Reserved Parking Spot,150,INR
+605EF,AE,Art Exhibition Add-on Entry,300,INR
+606FG,ST,Stage Access for Artists,1200,INR
+607GH,EX,Exclusive Backstage Tour,3500,USD
+608HI,SP,Sports Gear Rental Add-on,700,INR
+609IJ,TC,Technical Workshop Kit,1100,INR
+610JK,BS,Business Summit Networking Add-on,4500,USD
+611KL,MF,Music Festival Premium Pass,1800,INR
+612LM,SX,Science Expo Equipment Access,950,INR
+613MN,FPrem,Film Premiere Red Carpet Entry,2200,INR
+614NO,OM,Open Mic Performer Pass,500,INR
+615OP,WS,Workshop Materials Pack,650,INR
+616PQ,AX,Auto Expo Early Access,799,INR
+617QR,CC,Classical Concert Premium Seat Upgrade,1500,INR
+618RS,CO,Concert Meet & Greet Pass,3200,USD
+619ST,CR,Cricket Match Pavilion Access,2400,INR
+620TU,EF,Education Fair Certification Kit,550,INR

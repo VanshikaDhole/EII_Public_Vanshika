@@ -1,0 +1,4 @@
+code,name,descr
+HIGH,High,High priority activity requiring immediate attention
+MEDIUM,Medium,Normal priority activity
+LOW,Low,Low priority activity that can be addressed later

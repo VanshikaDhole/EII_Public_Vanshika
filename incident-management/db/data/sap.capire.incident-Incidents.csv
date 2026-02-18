@@ -1,0 +1,21 @@
+ID,customer_ID,title,urgency_code,status_code,createdAt,createdBy,modifiedAt,modifiedBy
+A1B2C,CUST01,Login issue,M,N,2024-01-01T09:00:00Z,customer1,2024-01-02T10:00:00Z,support1
+D3E4F,CUST02,App crash on start,H,A,2024-01-02T09:15:00Z,customer2,2024-01-03T10:10:00Z,support2
+G5H6J,CUST03,Password reset failed,M,I,2024-01-03T09:30:00Z,customer3,2024-01-04T10:20:00Z,support1
+K7L8M,CUST04,Payment declined,H,H,2024-01-04T09:45:00Z,customer4,2024-01-05T10:30:00Z,support3
+N9P0Q,CUST05,Slow application,L,R,2024-01-05T10:00:00Z,customer5,2024-01-06T11:00:00Z,support2
+R1S2T,CUST06,Account locked,M,A,2024-01-06T10:15:00Z,customer6,2024-01-07T11:10:00Z,support1
+U3V4W,CUST07,Incorrect dashboard data,H,I,2024-01-07T10:30:00Z,customer7,2024-01-08T11:20:00Z,support4
+X5Y6Z,CUST08,Email not received,L,N,2024-01-08T10:45:00Z,customer8,2024-01-09T11:30:00Z,support2
+A7C8D,CUST09,Report download error,M,A,2024-01-09T11:00:00Z,customer9,2024-01-10T11:40:00Z,support3
+E9F1G,CUST10,UI alignment issue,L,R,2024-01-10T11:15:00Z,customer10,2024-01-11T11:50:00Z,support1
+H2J3K,CUST11,Notification delay,M,I,2024-01-11T11:30:00Z,customer11,2024-01-12T12:00:00Z,support2
+L4M5N,CUST12,Profile update failed,H,A,2024-01-12T11:45:00Z,customer12,2024-01-13T12:10:00Z,support4
+P6Q7R,CUST13,Search not working,M,H,2024-01-13T12:00:00Z,customer13,2024-01-14T12:20:00Z,support3
+S8T9U,CUST14,Export timeout,H,I,2024-01-14T12:15:00Z,customer14,2024-01-15T12:30:00Z,support2
+V0W1X,CUST15,Wrong invoice generated,M,R,2024-01-15T12:30:00Z,customer15,2024-01-16T12:40:00Z,support1
+Y2Z3A,CUST16,Session expired quickly,L,C,2024-01-16T12:45:00Z,customer16,2024-01-17T12:50:00Z,support2
+B4C5E,CUST17,Unable to upload file,H,A,2024-01-17T13:00:00Z,customer17,2024-01-18T13:00:00Z,support3
+F6G7H,CUST18,Search results incorrect,M,I,2024-01-18T13:15:00Z,customer18,2024-01-19T13:10:00Z,support4
+J8K9L,CUST19,Application logout issue,L,R,2024-01-19T13:30:00Z,customer19,2024-01-20T13:20:00Z,support1
+M0N1P,CUST20,Feature request submitted,L,N,2024-01-20T13:45:00Z,customer20,2024-01-21T13:30:00Z,support2

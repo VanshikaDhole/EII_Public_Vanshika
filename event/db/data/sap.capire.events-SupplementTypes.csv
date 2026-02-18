@@ -1,0 +1,21 @@
+code,name,descr
+CO,Concert,Live music performance event
+CC,ClassicalConcert,Orchestral or instrumental music event
+SP,SportsMatch,Competitive physical sports event
+CR,CricketEvent,Professional or amateur cricket competition
+ST,StandupComedy,Live comedy performance by a comedian
+OM,OpenMicNight,Open platform for new performers
+TC,TechConference,Technology and innovation conference
+BS,BusinessSummit,Corporate leadership and industry conference
+AE,ArtExhibition,Exhibition displaying artworks and installations
+AX,AutoExpo,Showcase of automobiles and new vehicle launches
+WS,Workshop,Interactive hands-on learning session
+CB,CodingBootcamp,Intensive programming and software training
+FP,FoodPass,Access for food and beverages at events
+VL,VIPLounge,Exclusive entry to VIP area with premium services
+MD,MerchandiseKit,Event merchandise like T-shirts and badges
+PK,ParkingPass,Reserved parking facility during event
+SX,ScienceExpo,Exhibition featuring science demos and innovations
+MF,MusicFestival,Outdoor multi-artist music festival
+FPrem,FilmPremiere,Exclusive first screening of a movie
+EF,EducationFair,Exhibition of educational institutions and programs

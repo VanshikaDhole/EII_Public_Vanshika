@@ -1,0 +1,5 @@
+code,name,descr
+DRAFT,Draft,Quote is created but not yet sent to customer
+SENT,Sent,Quote has been sent to the customer
+APPROVED,Approved,Quote approved by the customer
+REJECTED,Rejected,Quote rejected by the customer

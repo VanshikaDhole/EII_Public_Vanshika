@@ -1,0 +1,21 @@
+ID,name,category_code,price,currency_code,descr
+mi101,Masala Tea,MC01,40,INR,Traditional spiced Indian tea
+mi102,Iced Coffee,MC01,90,INR,Chilled coffee with milk and ice
+mi103,Spring Rolls,MC02,120,INR,Crispy fried vegetable rolls
+mi104,Paneer Tikka,MC02,180,INR,Marinated paneer grilled to perfection
+mi105,Veg Biryani,MC03,220,INR,Fragrant rice cooked with spices and vegetables
+mi106,Chicken Curry,MC03,260,INR,Spicy and rich chicken gravy
+mi107,Gulab Jamun,MC04,80,INR,Soft dumplings soaked in sugar syrup
+mi108,Chocolate Mousse,MC04,150,INR,Light and creamy chocolate dessert
+mi109,Caesar Salad,MC05,130,INR,Fresh lettuce with dressing and croutons
+mi110,Greek Salad,MC05,140,INR,Salad with olives, feta, and veggies
+mi111,Tomato Soup,MC06,110,INR,Classic creamy tomato soup
+mi112,Sweet Corn Soup,MC06,120,INR,Light soup made with sweet corn kernels
+mi113,French Fries,MC07,100,INR,Crispy salted potato fries
+mi114,Onion Rings,MC07,110,INR,Deep-fried crunchy onion rings
+mi115,Margherita Pizza,MC08,250,INR,Classic cheese and tomato pizza
+mi116,Chicken Burger,MC08,180,INR,Grilled chicken patty with toppings
+mi117,Grilled Fish,MC09,320,INR,Fresh fish grilled with herbs
+mi118,Garlic Bread,MC10,90,INR,Baked bread with garlic butter
+mi119,Pancakes,MC11,160,INR,Fluffy pancakes with syrup
+mi120,Fruit Bowl,MC12,140,INR,Assorted seasonal fruits

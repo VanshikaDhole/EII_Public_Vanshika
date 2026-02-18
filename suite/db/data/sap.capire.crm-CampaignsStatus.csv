@@ -1,0 +1,5 @@
+code,name,descr
+PLANNED,Planned,Campaign is planned but not yet started
+ACTIVE,Active,Campaign is currently running
+COMPLETED,Completed,Campaign has been completed
+CANCELLED,Cancelled,Campaign was cancelled before completion

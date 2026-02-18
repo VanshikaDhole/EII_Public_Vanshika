@@ -1,0 +1,49 @@
+<mvc:View controllerName="ns.incidentfree.incident.controller.Incident_Management_View"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+     <Panel
+                headerText="DepartmentsTable"
+                expandable="true"
+                expanded="false">
+    <Table id="customerTable" 
+        footerText="Tablessssssssss for Incident" 
+        visible="true" 
+        width="100%"
+        items="{ 
+            path:'/Customers'
+         }"
+    >
+    <columns>
+        <Column>
+            <Text text="ID"></Text>
+        </Column>
+        <Column>
+            <Text text="firstName"></Text>
+        </Column>
+        <Column  >
+            <Text text="lastName"></Text>
+        </Column>
+        <Column  >
+            <Text text="email"></Text>
+        </Column>
+        <Column  >
+            <Text text="phone"></Text>
+        </Column>
+    </columns>
+    <items>
+        <ColumnListItem vAlign="Middle">
+            <cells>
+                <Text text="{ID}"></Text>
+                <Text text="{firstName}"></Text>
+                <Text text="{lastName}"></Text>
+                <Text text="{email}"></Text>
+                <Text text="{phone}"></Text>
+                
+            </cells>
+        </ColumnListItem>
+    </items>
+    </Table>
+    </Panel>
+    </Page>
+</mvc:View>

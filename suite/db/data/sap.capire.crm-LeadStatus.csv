@@ -1,0 +1,6 @@
+code,name,descr
+NEW,New,Newly created lead not yet contacted
+CONTACT,Contacted,Lead has been contacted
+QUALIFIED,Qualified,Lead has been qualified and is a good fit
+CONVERTED,Converted,Lead has been converted to an account or deal
+LOST,Lost,Lead was lost or closed without conversion

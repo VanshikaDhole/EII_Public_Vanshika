@@ -1,0 +1,21 @@
+code,locale,name,descr
+N,en,New,Incident has been created
+A,en,Assigned,Incident assigned to support agent
+I,en,In Process,Incident is currently being worked on
+H,en,On Hold,Incident is temporarily paused
+R,en,Resolved,Incident has been resolved
+C,en,Closed,Incident has been closed
+OP,en,Open,Incident is open and active
+PD,en,Pending,Waiting for further action
+ES,en,Escalated,Incident escalated to higher support
+RV,en,Review,Incident is under review
+CN,en,Completed,Incident processing completed
+RJ,en,Rejected,Incident request rejected
+IP,en,In Progress,Work on incident is ongoing
+WL,en,Waiting,Waiting for customer response
+DF,en,Deferred,Incident postponed for later handling
+AP,en,Approved,Incident resolution approved
+CL,en,Closed Late,Incident closed after SLA breach
+UR,en,Under Review,Senior team reviewing the incident
+RS,en,Reassigned,Incident reassigned to another agent
+FC,en,Fully Closed,Incident lifecycle fully completed

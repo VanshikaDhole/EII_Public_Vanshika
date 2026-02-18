@@ -1,0 +1,21 @@
+ID,firstName,lastName,email,phone,designation,department_ID,country_code,dateJoined
+e101,Amit,Sharma,amit.sharma@example.com,9876500011,HR Executive,d101,IN,2021-03-15
+e102,Neha,Verma,neha.verma@example.com,9876500012,Finance Analyst,d102,IN,2020-11-20
+e103,Rohan,Patil,rohan.patil@example.com,9876500013,IT Support Engineer,d103,US,2022-01-10
+e104,Shruti,Desai,shruti.desai@example.com,9876500014,Marketing Specialist,d104,IN,2021-07-05
+e105,Varun,Kulkarni,varun.kulkarni@example.com,9876500015,Sales Executive,d105,IN,2019-02-18
+e106,Anjali,Mehta,anjali.mehta@example.com,9876500016,Logistics Coordinator,d106,UK,2023-04-12
+e107,Karan,Rao,karan.rao@example.com,9876500017,Operations Manager,d107,IN,2020-09-25
+e108,Divya,Nair,divya.nair@example.com,9876500018,Legal Advisor,d108,IN,2018-12-01
+e109,Sachin,Jadhav,sachin.jadhav@example.com,9876500019,Customer Support Lead,d109,IN,2022-08-14
+e110,Meera,Pandit,meera.pandit@example.com,9876500020,R&D Engineer,d110,CA,2021-05-30
+e111,Arjun,Malhotra,arjun.malhotra@example.com,9876500021,Procurement Officer,d111,IN,2019-10-10
+e112,Sneha,Kamat,sneha.kamat@example.com,9876500022,QA Analyst,d112,AU,2023-02-09
+e113,Nidhi,Khanna,nidhi.khanna@example.com,9876500023,Training Specialist,d113,IN,2021-06-22
+e114,Vivek,Sinha,vivek.sinha@example.com,9876500024,Admin Executive,d114,IN,2017-11-02
+e115,Akash,Tiwari,akash.tiwari@example.com,9876500025,Security Supervisor,d115,IN,2020-03-18
+e116,Shalini,Mukherjee,shalini.mukherjee@example.com,9876500026,PR Officer,d116,IN,2022-09-09
+e117,Manav,Gupta,manav.gupta@example.com,9876500027,Product Manager,d117,US,2019-04-04
+e118,Reema,Vaidya,reema.vaidya@example.com,9876500028,Strategy Analyst,d118,IN,2020-01-15
+e119,Harshad,Kulkarni,harshad.kulkarni@example.com,9876500029,Data Analyst,d119,IN,2021-08-21
+e120,Sunil,Chavan,sunil.chavan@example.com,9876500030,Facilities Supervisor,d120,IN,2018-06-12

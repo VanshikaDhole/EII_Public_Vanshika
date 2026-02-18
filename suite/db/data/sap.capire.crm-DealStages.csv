@@ -1,0 +1,7 @@
+code,name,descr
+PROSPECTING,Prospecting,Initial stage where the deal is being identified and explored
+QUALIFICATION,Qualification,Requirements and budget are being validated
+PROPOSAL,Proposal,Formal proposal or quotation has been shared
+NEGOTIATION,Negotiation,Terms and pricing are under negotiation
+WON,Won,Deal successfully closed and won
+LOST,Lost,Deal closed but not won

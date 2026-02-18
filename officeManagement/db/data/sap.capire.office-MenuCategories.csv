@@ -1,0 +1,21 @@
+code,name,descr
+MC01,Beverages,All types of hot and cold drinks
+MC02,Starters,Light dishes served before the main course
+MC03,MainCourse,Full meal dishes including veg and non-veg items
+MC04,Desserts,Sweet dishes served after the meal
+MC05,Salads,Fresh vegetable and fruit salad options
+MC06,Soups,Various vegetarian and non-vegetarian soups
+MC07,Snacks,Quick light-bite food items
+MC08,FastFood,Burgers, pizzas, and other quick meals
+MC09,Grill,Grilled veg and non-veg specialities
+MC10,Bakery,Breads, cakes, and baked items
+MC11,Breakfast,Morning specialty menu items
+MC12,Healthy,Low-calorie, fitness-focused items
+MC13,KidsMenu,Items specially curated for children
+MC14,BeverageSpecials,Seasonal and premium drinks
+MC15,Combos,Meal combinations offered at special prices
+MC16,IceCreams,All flavours of ice-creams
+MC17,Juices,Freshly made fruit juices
+MC18,SeaFood,Seafood-based dishes
+MC19,Traditional,Authentic regional and cultural dishes
+MC20,ChefSpecial,Special dishes curated by the chef

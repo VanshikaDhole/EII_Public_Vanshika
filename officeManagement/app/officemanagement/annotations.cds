@@ -1,0 +1,1 @@
+using OfficeService as service from '../../srv/office-service';

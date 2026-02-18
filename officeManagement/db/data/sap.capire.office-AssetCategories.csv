@@ -1,0 +1,21 @@
+code,name,descr
+AC01,Laptop,Portable computer assigned to employees for office work
+AC02,Desktop,Workstation used for fixed desk setups
+AC03,Monitor,Display screens for desktops and docking stations
+AC04,Keyboard,External keyboard used with desktops or laptops
+AC05,Mouse,Standard pointing device for workstations
+AC06,Printer,Office printer used for document printing
+AC07,Projector,Device used for presentations and meetings
+AC08,Chair,Ergonomic office chair for employees
+AC09,Desk,Office desk or workstation furniture
+AC10,Router,Network router for internal connectivity
+AC11,Switch,Network switch supporting office infrastructure
+AC12,Phone,Desk phone or IP-based communication device
+AC13,Headset,Wired or wireless headset used for calls and meetings
+AC14,ACUnit,Air conditioning unit installed in office rooms
+AC15,Whiteboard,Physical writing board used in meeting rooms
+AC16,UPS,Uninterrupted Power Supply for IT equipment
+AC17,CCTV,Security camera used for surveillance
+AC18,Server,Server hardware for backend IT operations
+AC19,Cabinet,Storage or filing cabinet for documents
+AC20,Scanner,Device used to scan documents into digital form

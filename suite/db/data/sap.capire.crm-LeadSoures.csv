@@ -1,0 +1,6 @@
+code,name,descr
+WEBSITE,Website,Lead captured from website form or landing page
+REFERRAL,Referral,Lead referred by existing customer or partner
+CAMPAIGN,Campaign,Lead generated from marketing campaign
+PARTNER,Partner,Lead received via business partner
+COLD_CALL,Cold Call,Lead generated through cold calling

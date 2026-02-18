@@ -1,0 +1,5 @@
+code,name,descr
+DRAFT,Draft,Invoice is created but not yet sent
+SENT,Sent,Invoice has been sent to the customer
+PAID,Paid,Invoice has been fully paid
+OVERDUE,Overdue,Invoice payment is overdue

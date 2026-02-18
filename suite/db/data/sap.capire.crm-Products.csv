@@ -1,0 +1,51 @@
+ID,productName,productCode,unitPrice,description,vendor_ID,active,createdAt,createdBy,modifiedAt,modifiedBy
+pr80e8400-e29b-41d4-a716-446655440001,CRM Basic License,CRM-BASIC,4999.00,Basic CRM subscription license,vn90e8400-e29b-41d4-a716-446655440001,true,2024-01-10T08:00:00Z,system,2024-01-10T08:00:00Z,system
+pr80e8400-e29b-41d4-a716-446655440002,CRM Pro License,CRM-PRO,9999.00,Professional CRM subscription,vn90e8400-e29b-41d4-a716-446655440002,true,2024-01-10T08:01:00Z,system,2024-01-10T08:01:00Z,system
+pr80e8400-e29b-41d4-a716-446655440003,CRM Enterprise License,CRM-ENT,19999.00,Enterprise CRM subscription,vn90e8400-e29b-41d4-a716-446655440003,true,2024-01-10T08:02:00Z,system,2024-01-10T08:02:00Z,system
+pr80e8400-e29b-41d4-a716-446655440004,Email Marketing Addon,EM-ADDON,2999.00,Email marketing extension module,vn90e8400-e29b-41d4-a716-446655440004,true,2024-01-10T08:03:00Z,system,2024-01-10T08:03:00Z,system
+pr80e8400-e29b-41d4-a716-446655440005,Analytics Dashboard,AN-DASH,6999.00,Advanced analytics dashboard,vn90e8400-e29b-41d4-a716-446655440005,true,2024-01-10T08:04:00Z,system,2024-01-10T08:04:00Z,system
+pr80e8400-e29b-41d4-a716-446655440006,AI Lead Scoring,AI-LEAD,8999.00,AI based lead scoring engine,vn90e8400-e29b-41d4-a716-446655440006,true,2024-01-10T08:05:00Z,system,2024-01-10T08:05:00Z,system
+pr80e8400-e29b-41d4-a716-446655440007,Sales Automation Module,SA-MOD,7499.00,Sales workflow automation module,vn90e8400-e29b-41d4-a716-446655440007,true,2024-01-10T08:06:00Z,system,2024-01-10T08:06:00Z,system
+pr80e8400-e29b-41d4-a716-446655440008,Customer Support Addon,CS-ADDON,3999.00,Customer support ticketing addon,vn90e8400-e29b-41d4-a716-446655440008,true,2024-01-10T08:07:00Z,system,2024-01-10T08:07:00Z,system
+pr80e8400-e29b-41d4-a716-446655440009,Mobile CRM App,MOB-CRM,1999.00,Mobile application access,vn90e8400-e29b-41d4-a716-446655440009,true,2024-01-10T08:08:00Z,system,2024-01-10T08:08:00Z,system
+pr80e8400-e29b-41d4-a716-446655440010,API Access Pack,API-PACK,5999.00,Extended API access package,vn90e8400-e29b-41d4-a716-446655440010,true,2024-01-10T08:09:00Z,system,2024-01-10T08:09:00Z,system
+pr80e8400-e29b-41d4-a716-446655440011,Marketing Automation,MA-MOD,7999.00,Marketing automation workflows,vn90e8400-e29b-41d4-a716-446655440011,true,2024-01-10T08:10:00Z,system,2024-01-10T08:10:00Z,system
+pr80e8400-e29b-41d4-a716-446655440012,WhatsApp Integration,WA-INTEG,3499.00,WhatsApp messaging integration,vn90e8400-e29b-41d4-a716-446655440012,true,2024-01-10T08:11:00Z,system,2024-01-10T08:11:00Z,system
+pr80e8400-e29b-41d4-a716-446655440013,Data Backup Service,DB-BACK,2499.00,Automated data backup service,vn90e8400-e29b-41d4-a716-446655440013,true,2024-01-10T08:12:00Z,system,2024-01-10T08:12:00Z,system
+pr80e8400-e29b-41d4-a716-446655440014,Role Based Access,RBAC-MOD,1999.00,Advanced role based access control,vn90e8400-e29b-41d4-a716-446655440014,true,2024-01-10T08:13:00Z,system,2024-01-10T08:13:00Z,system
+pr80e8400-e29b-41d4-a716-446655440015,Custom Reports,CR-REP,4999.00,Custom report builder,vn90e8400-e29b-41d4-a716-446655440015,true,2024-01-10T08:14:00Z,system,2024-01-10T08:14:00Z,system
+pr80e8400-e29b-41d4-a716-446655440016,Workflow Designer,WF-DES,5599.00,Visual workflow designer,vn90e8400-e29b-41d4-a716-446655440016,true,2024-01-10T08:15:00Z,system,2024-01-10T08:15:00Z,system
+pr80e8400-e29b-41d4-a716-446655440017,Email Templates Pack,ET-PACK,1499.00,Prebuilt email templates,vn90e8400-e29b-41d4-a716-446655440017,true,2024-01-10T08:16:00Z,system,2024-01-10T08:16:00Z,system
+pr80e8400-e29b-41d4-a716-446655440018,Campaign Manager,CM-MOD,6999.00,Campaign management module,vn90e8400-e29b-41d4-a716-446655440018,true,2024-01-10T08:17:00Z,system,2024-01-10T08:17:00Z,system
+pr80e8400-e29b-41d4-a716-446655440019,Lead Import Tool,LI-TOOL,999.00,Bulk lead import utility,vn90e8400-e29b-41d4-a716-446655440019,true,2024-01-10T08:18:00Z,system,2024-01-10T08:18:00Z,system
+pr80e8400-e29b-41d4-a716-446655440020,Support SLA Module,SLA-MOD,4599.00,SLA and escalation management,vn90e8400-e29b-41d4-a716-446655440020,true,2024-01-10T08:19:00Z,system,2024-01-10T08:19:00Z,system
+pr80e8400-e29b-41d4-a716-446655440021,Advanced Search,AS-ENG,2799.00,Advanced global search engine,vn90e8400-e29b-41d4-a716-446655440021,true,2024-01-10T08:20:00Z,system,2024-01-10T08:20:00Z,system
+pr80e8400-e29b-41d4-a716-446655440022,Document Management,DM-MOD,5999.00,Document storage and versioning,vn90e8400-e29b-41d4-a716-446655440022,true,2024-01-10T08:21:00Z,system,2024-01-10T08:21:00Z,system
+pr80e8400-e29b-41d4-a716-446655440023,Third Party Integrations,TPI-PACK,7999.00,Integration with third party tools,vn90e8400-e29b-41d4-a716-446655440023,true,2024-01-10T08:22:00Z,system,2024-01-10T08:22:00Z,system
+pr80e8400-e29b-41d4-a716-446655440024,Audit Logs Module,AL-MOD,1899.00,Audit logging and tracking,vn90e8400-e29b-41d4-a716-446655440024,true,2024-01-10T08:23:00Z,system,2024-01-10T08:23:00Z,system
+pr80e8400-e29b-41d4-a716-446655440025,Custom Fields Engine,CF-ENG,3999.00,Dynamic custom fields engine,vn90e8400-e29b-41d4-a716-446655440025,true,2024-01-10T08:24:00Z,system,2024-01-10T08:24:00Z,system
+pr80e8400-e29b-41d4-a716-446655440026,Notification Service,NS-SVC,1299.00,Real-time notification service,vn90e8400-e29b-41d4-a716-446655440026,true,2024-01-10T08:25:00Z,system,2024-01-10T08:25:00Z,system
+pr80e8400-e29b-41d4-a716-446655440027,AI Forecasting,AI-FOR,9999.00,AI based sales forecasting,vn90e8400-e29b-41d4-a716-446655440027,true,2024-01-10T08:26:00Z,system,2024-01-10T08:26:00Z,system
+pr80e8400-e29b-41d4-a716-446655440028,Calendar Sync,CS-SYNC,1799.00,Calendar synchronization tool,vn90e8400-e29b-41d4-a716-446655440028,true,2024-01-10T08:27:00Z,system,2024-01-10T08:27:00Z,system
+pr80e8400-e29b-41d4-a716-446655440029,Voice Call Integration,VC-INTEG,4599.00,Cloud telephony integration,vn90e8400-e29b-41d4-a716-446655440029,true,2024-01-10T08:28:00Z,system,2024-01-10T08:28:00Z,system
+pr80e8400-e29b-41d4-a716-446655440030,Knowledge Base,KB-MOD,2499.00,Internal knowledge base module,vn90e8400-e29b-41d4-a716-446655440030,true,2024-01-10T08:29:00Z,system,2024-01-10T08:29:00Z,system
+pr80e8400-e29b-41d4-a716-446655440031,Customer Portal,CP-PORT,6999.00,Self service customer portal,vn90e8400-e29b-41d4-a716-446655440031,true,2024-01-10T08:30:00Z,system,2024-01-10T08:30:00Z,system
+pr80e8400-e29b-41d4-a716-446655440032,Mobile Push Notifications,MP-NOTIF,1199.00,Mobile push notification service,vn90e8400-e29b-41d4-a716-446655440032,true,2024-01-10T08:31:00Z,system,2024-01-10T08:31:00Z,system
+pr80e8400-e29b-41d4-a716-446655440033,Advanced Permissions,AP-MOD,3299.00,Granular permission management,vn90e8400-e29b-41d4-a716-446655440033,true,2024-01-10T08:32:00Z,system,2024-01-10T08:32:00Z,system
+pr80e8400-e29b-41d4-a716-446655440034,Data Export Tool,DE-TOOL,999.00,Bulk data export utility,vn90e8400-e29b-41d4-a716-446655440034,true,2024-01-10T08:33:00Z,system,2024-01-10T08:33:00Z,system
+pr80e8400-e29b-41d4-a716-446655440035,User Training Pack,UT-PACK,1999.00,Training and onboarding materials,vn90e8400-e29b-41d4-a716-446655440035,true,2024-01-10T08:34:00Z,system,2024-01-10T08:34:00Z,system
+pr80e8400-e29b-41d4-a716-446655440036,Marketplace Connector,MC-CON,5499.00,Marketplace integration connector,vn90e8400-e29b-41d4-a716-446655440036,true,2024-01-10T08:35:00Z,system,2024-01-10T08:35:00Z,system
+pr80e8400-e29b-41d4-a716-446655440037,Custom Branding,CB-MOD,2999.00,Custom UI branding options,vn90e8400-e29b-41d4-a716-446655440037,true,2024-01-10T08:36:00Z,system,2024-01-10T08:36:00Z,system
+pr80e8400-e29b-41d4-a716-446655440038,Compliance Toolkit,CT-TOOL,6499.00,Compliance and regulatory toolkit,vn90e8400-e29b-41d4-a716-446655440038,true,2024-01-10T08:37:00Z,system,2024-01-10T08:37:00Z,system
+pr80e8400-e29b-41d4-a716-446655440039,Survey Builder,SB-MOD,2199.00,Customer survey builder,vn90e8400-e29b-41d4-a716-446655440039,true,2024-01-10T08:38:00Z,system,2024-01-10T08:38:00Z,system
+pr80e8400-e29b-41d4-a716-446655440040,Revenue Attribution,RA-MOD,7999.00,Revenue attribution analytics,vn90e8400-e29b-41d4-a716-446655440040,true,2024-01-10T08:39:00Z,system,2024-01-10T08:39:00Z,system
+pr80e8400-e29b-41d4-a716-446655440041,Opportunity Scoring,OS-MOD,4899.00,Opportunity scoring engine,vn90e8400-e29b-41d4-a716-446655440041,true,2024-01-10T08:40:00Z,system,2024-01-10T08:40:00Z,system
+pr80e8400-e29b-41d4-a716-446655440042,Quote Builder,QB-MOD,3599.00,Quotation builder module,vn90e8400-e29b-41d4-a716-446655440042,true,2024-01-10T08:41:00Z,system,2024-01-10T08:41:00Z,system
+pr80e8400-e29b-41d4-a716-446655440043,Invoice Generator,IG-MOD,2799.00,Invoice generation tool,vn90e8400-e29b-41d4-a716-446655440043,true,2024-01-10T08:42:00Z,system,2024-01-10T08:42:00Z,system
+pr80e8400-e29b-41d4-a716-446655440044,Tax Calculation Engine,TC-ENG,3999.00,Automated tax calculation engine,vn90e8400-e29b-41d4-a716-446655440044,true,2024-01-10T08:43:00Z,system,2024-01-10T08:43:00Z,system
+pr80e8400-e29b-41d4-a716-446655440045,Multi Currency Support,MC-SUP,1899.00,Multi currency transaction support,vn90e8400-e29b-41d4-a716-446655440045,true,2024-01-10T08:44:00Z,system,2024-01-10T08:44:00Z,system
+pr80e8400-e29b-41d4-a716-446655440046,Approval Workflow,AW-MOD,4699.00,Approval workflow engine,vn90e8400-e29b-41d4-a716-446655440046,true,2024-01-10T08:45:00Z,system,2024-01-10T08:45:00Z,system
+pr80e8400-e29b-41d4-a716-446655440047,Data Masking Tool,DM-TOOL,2599.00,Data masking and privacy tool,vn90e8400-e29b-41d4-a716-446655440047,true,2024-01-10T08:46:00Z,system,2024-01-10T08:46:00Z,system
+pr80e8400-e29b-41d4-a716-446655440048,Search Optimization,SO-MOD,3299.00,Search performance optimization,vn90e8400-e29b-41d4-a716-446655440048,true,2024-01-10T08:47:00Z,system,2024-01-10T08:47:00Z,system
+pr80e8400-e29b-41d4-a716-446655440049,Email Deliverability,ED-TOOL,2799.00,Email deliverability optimization,vn90e8400-e29b-41d4-a716-446655440049,true,2024-01-10T08:48:00Z,system,2024-01-10T08:48:00Z,system
+pr80e8400-e29b-41d4-a716-446655440050,AI Chatbot,AI-CHAT,11999.00,AI powered chatbot integration,vn90e8400-e29b-41d4-a716-446655440050,true,2024-01-10T08:49:00Z,system,2024-01-10T08:49:00Z,system

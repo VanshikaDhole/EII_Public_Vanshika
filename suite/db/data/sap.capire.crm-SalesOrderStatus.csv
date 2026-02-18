@@ -1,0 +1,5 @@
+code,name,descr
+OPEN,Open,Sales order is created and open
+PROCESSING,Processing,Sales order is being processed
+COMPLETED,Completed,Sales order is fulfilled and closed
+CANCELLED,Cancelled,Sales order was cancelled

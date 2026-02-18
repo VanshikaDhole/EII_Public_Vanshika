@@ -1,0 +1,4 @@
+code,name,descr
+TASK,Task,Task-based activity such as follow-ups or internal work
+CALL,Call,Phone call activity with lead or customer
+MEETING,Meeting,In-person or virtual meeting activity

@@ -1,0 +1,11 @@
+POST http://localhost:4004/odata/v4/events/Organizers HTTP/1.1
+Content-Type: application/json
+
+ {
+    "name":"Vanshika",
+    "email":"info@globalevents.com",
+    "phone":"+1-202-555-0147",
+    "website": "https://www.abcevents.com",
+    "country_code": "IN"
+  }
+  

@@ -1,0 +1,21 @@
+ID,building_ID,roomNumber,roomType,capacity,area,facilities
+R101,B001,101,Meeting,10,25.5,Projector, Whiteboard, Wi-Fi
+R102,B001,102,Conference,20,40.0,Projector, Video Conferencing, Wi-Fi
+R103,B001,103,Training,15,35.0,Whiteboard, Projector, Wi-Fi
+R104,B002,201,Executive,5,20.0,Whiteboard, Video Conferencing
+R105,B002,202,Meeting,8,22.5,Projector, Whiteboard
+R106,B002,203,Conference,25,50.0,Video Conferencing, Wi-Fi, Projector
+R107,B003,301,Lounge,12,30.0,Sofas, TV, Coffee Machine
+R108,B003,302,Cafeteria,40,80.0,Tables, Chairs, Water Dispenser
+R109,B003,303,Training,18,38.0,Projector, Whiteboard, Wi-Fi
+R110,B004,401,Meeting,10,28.0,Whiteboard, TV, Wi-Fi
+R111,B004,402,Conference,30,55.0,Video Conferencing, Projector
+R112,B004,403,Executive,4,18.0,Whiteboard, Wi-Fi
+R113,B005,501,Lounge,15,35.0,Sofas, TV, Coffee Machine
+R114,B005,502,Meeting,12,26.0,Projector, Whiteboard
+R115,B005,503,Cafeteria,50,90.0,Tables, Chairs, Water Dispenser
+R116,B006,601,Training,20,45.0,Projector, Whiteboard, Wi-Fi
+R117,B006,602,Conference,35,60.0,Video Conferencing, Projector
+R118,B006,603,Executive,6,22.0,Whiteboard, Wi-Fi
+R119,B007,701,Meeting,8,24.0,Projector, Whiteboard
+R120,B007,702,Lounge,10,30.0,Sofas, TV, Wi-Fi

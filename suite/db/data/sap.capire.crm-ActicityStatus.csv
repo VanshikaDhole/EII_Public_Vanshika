@@ -1,0 +1,4 @@
+code,name,descr
+OPEN,Open,Activity is open and pending completion
+COMPLETED,Completed,Activity has been completed successfully
+CANCELLED,Cancelled,Activity was cancelled and not completed

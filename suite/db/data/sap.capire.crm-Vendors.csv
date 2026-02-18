@@ -1,0 +1,51 @@
+ID,vendorName,email,phone,website,address,createdAt,createdBy,modifiedAt,modifiedBy
+vn90e8400-e29b-41d4-a716-446655440001,Alpha Tech Solutions,contact@alphatech.com,900000001,www.alphatech.com,Bangalore KA India,2024-01-08T08:00:00Z,system,2024-01-08T08:00:00Z,system
+vn90e8400-e29b-41d4-a716-446655440002,Beta Software Labs,info@betasoft.com,900000002,www.betasoft.com,Mumbai MH India,2024-01-08T08:01:00Z,system,2024-01-08T08:01:00Z,system
+vn90e8400-e29b-41d4-a716-446655440003,Gamma IT Services,sales@gammait.com,900000003,www.gammait.com,Pune MH India,2024-01-08T08:02:00Z,system,2024-01-08T08:02:00Z,system
+vn90e8400-e29b-41d4-a716-446655440004,Delta Systems,hello@deltasys.com,900000004,www.deltasys.com,Hyderabad TS India,2024-01-08T08:03:00Z,system,2024-01-08T08:03:00Z,system
+vn90e8400-e29b-41d4-a716-446655440005,Epsilon Infotech,contact@epsilon.com,900000005,www.epsilon.com,Chennai TN India,2024-01-08T08:04:00Z,system,2024-01-08T08:04:00Z,system
+vn90e8400-e29b-41d4-a716-446655440006,Zeta Cloud,zeta@zetacloud.com,900000006,www.zetacloud.com,Delhi India,2024-01-08T08:05:00Z,system,2024-01-08T08:05:00Z,system
+vn90e8400-e29b-41d4-a716-446655440007,Eta Consulting,info@etaconsult.com,900000007,www.etaconsult.com,Noida UP India,2024-01-08T08:06:00Z,system,2024-01-08T08:06:00Z,system
+vn90e8400-e29b-41d4-a716-446655440008,Theta Analytics,contact@thetaanalytics.com,900000008,www.thetaanalytics.com,Gurgaon HR India,2024-01-08T08:07:00Z,system,2024-01-08T08:07:00Z,system
+vn90e8400-e29b-41d4-a716-446655440009,Iota Technologies,support@iotatech.com,900000009,www.iotatech.com,Bangalore KA India,2024-01-08T08:08:00Z,system,2024-01-08T08:08:00Z,system
+vn90e8400-e29b-41d4-a716-446655440010,Kappa Industries,info@kappaind.com,900000010,www.kappaind.com,Ahmedabad GJ India,2024-01-08T08:09:00Z,system,2024-01-08T08:09:00Z,system
+vn90e8400-e29b-41d4-a716-446655440011,Lambda Solutions,hello@lambdasol.com,900000011,www.lambdasol.com,Pune MH India,2024-01-08T08:10:00Z,system,2024-01-08T08:10:00Z,system
+vn90e8400-e29b-41d4-a716-446655440012,Mu Softwares,contact@musoft.com,900000012,www.musoft.com,Bangalore KA India,2024-01-08T08:11:00Z,system,2024-01-08T08:11:00Z,system
+vn90e8400-e29b-41d4-a716-446655440013,Nu Services,info@nuservices.com,900000013,www.nuservices.com,Mumbai MH India,2024-01-08T08:12:00Z,system,2024-01-08T08:12:00Z,system
+vn90e8400-e29b-41d4-a716-446655440014,Xi Systems,contact@xisystems.com,900000014,www.xisystems.com,Hyderabad TS India,2024-01-08T08:13:00Z,system,2024-01-08T08:13:00Z,system
+vn90e8400-e29b-41d4-a716-446655440015,Omicron Retail,hello@omicronretail.com,900000015,www.omicronretail.com,Jaipur RJ India,2024-01-08T08:14:00Z,system,2024-01-08T08:14:00Z,system
+vn90e8400-e29b-41d4-a716-446655440016,Phi Finance,contact@phifinance.com,900000016,www.phifinance.com,Mumbai MH India,2024-01-08T08:15:00Z,system,2024-01-08T08:15:00Z,system
+vn90e8400-e29b-41d4-a716-446655440017,Chi Health,info@chihealth.com,900000017,www.chihealth.com,Chennai TN India,2024-01-08T08:16:00Z,system,2024-01-08T08:16:00Z,system
+vn90e8400-e29b-41d4-a716-446655440018,Psi Tech,sales@psitech.com,900000018,www.psitech.com,Bangalore KA India,2024-01-08T08:17:00Z,system,2024-01-08T08:17:00Z,system
+vn90e8400-e29b-41d4-a716-446655440019,Omega Consulting,info@omegaconsult.com,900000019,www.omegaconsult.com,Delhi India,2024-01-08T08:18:00Z,system,2024-01-08T08:18:00Z,system
+vn90e8400-e29b-41d4-a716-446655440020,Sigma Manufacturing,contact@sigmamfg.com,900000020,www.sigmamfg.com,Coimbatore TN India,2024-01-08T08:19:00Z,system,2024-01-08T08:19:00Z,system
+vn90e8400-e29b-41d4-a716-446655440021,Tau Systems,info@tausystems.com,900000021,www.tausystems.com,Bangalore KA India,2024-01-08T08:20:00Z,system,2024-01-08T08:20:00Z,system
+vn90e8400-e29b-41d4-a716-446655440022,Upsilon Education,contact@upsilonedu.com,900000022,www.upsilonedu.com,Pune MH India,2024-01-08T08:21:00Z,system,2024-01-08T08:21:00Z,system
+vn90e8400-e29b-41d4-a716-446655440023,Phoenix Manufacturing,sales@phoenixmfg.com,900000023,www.phoenixmfg.com,Indore MP India,2024-01-08T08:22:00Z,system,2024-01-08T08:22:00Z,system
+vn90e8400-e29b-41d4-a716-446655440024,Orion IT,info@orionit.com,900000024,www.orionit.com,Noida UP India,2024-01-08T08:23:00Z,system,2024-01-08T08:23:00Z,system
+vn90e8400-e29b-41d4-a716-446655440025,Vega Consulting,hello@vegaconsult.com,900000025,www.vegaconsult.com,Chandigarh India,2024-01-08T08:24:00Z,system,2024-01-08T08:24:00Z,system
+vn90e8400-e29b-41d4-a716-446655440026,Aquila Finance,info@aquilafinance.com,900000026,www.aquilafinance.com,Mumbai MH India,2024-01-08T08:25:00Z,system,2024-01-08T08:25:00Z,system
+vn90e8400-e29b-41d4-a716-446655440027,Helios Energy,contact@heliosenergy.com,900000027,www.heliosenergy.com,Ahmedabad GJ India,2024-01-08T08:26:00Z,system,2024-01-08T08:26:00Z,system
+vn90e8400-e29b-41d4-a716-446655440028,Nova Tech,info@novatech.com,900000028,www.novatech.com,Bangalore KA India,2024-01-08T08:27:00Z,system,2024-01-08T08:27:00Z,system
+vn90e8400-e29b-41d4-a716-446655440029,Atlas Logistics,sales@atlaslogistics.com,900000029,www.atlaslogistics.com,Delhi India,2024-01-08T08:28:00Z,system,2024-01-08T08:28:00Z,system
+vn90e8400-e29b-41d4-a716-446655440030,Pegasus Systems,contact@pegasussys.com,900000030,www.pegasussys.com,Hyderabad TS India,2024-01-08T08:29:00Z,system,2024-01-08T08:29:00Z,system
+vn90e8400-e29b-41d4-a716-446655440031,Zenith Corp,info@zenithcorp.com,900000031,www.zenithcorp.com,Nagpur MH India,2024-01-08T08:30:00Z,system,2024-01-08T08:30:00Z,system
+vn90e8400-e29b-41d4-a716-446655440032,Vertex Consulting,contact@vertexconsulting.com,900000032,www.vertexconsulting.com,Gurgaon HR India,2024-01-08T08:31:00Z,system,2024-01-08T08:31:00Z,system
+vn90e8400-e29b-41d4-a716-446655440033,Polaris Finance,info@polarisfinance.com,900000033,www.polarisfinance.com,Mumbai MH India,2024-01-08T08:32:00Z,system,2024-01-08T08:32:00Z,system
+vn90e8400-e29b-41d4-a716-446655440034,Sirius IT,contact@siriusit.com,900000034,www.siriusit.com,Bangalore KA India,2024-01-08T08:33:00Z,system,2024-01-08T08:33:00Z,system
+vn90e8400-e29b-41d4-a716-446655440035,Andromeda Health,info@andromedahealth.com,900000035,www.andromedahealth.com,Kochi KL India,2024-01-08T08:34:00Z,system,2024-01-08T08:34:00Z,system
+vn90e8400-e29b-41d4-a716-446655440036,Celestial Solutions,hello@celestialsolutions.com,900000036,www.celestialsolutions.com,Trivandrum KL India,2024-01-08T08:35:00Z,system,2024-01-08T08:35:00Z,system
+vn90e8400-e29b-41d4-a716-446655440037,Orbit Manufacturing,contact@orbitmfg.com,900000037,www.orbitmfg.com,Surat GJ India,2024-01-08T08:36:00Z,system,2024-01-08T08:36:00Z,system
+vn90e8400-e29b-41d4-a716-446655440038,Lyra Consulting,info@lyraconsulting.com,900000038,www.lyraconsulting.com,Kolkata WB India,2024-01-08T08:37:00Z,system,2024-01-08T08:37:00Z,system
+vn90e8400-e29b-41d4-a716-446655440039,Crux Tech,sales@cruxtech.com,900000039,www.cruxtech.com,Bangalore KA India,2024-01-08T08:38:00Z,system,2024-01-08T08:38:00Z,system
+vn90e8400-e29b-41d4-a716-446655440040,Matrix Systems,info@matrixsys.com,900000040,www.matrixsys.com,Hyderabad TS India,2024-01-08T08:39:00Z,system,2024-01-08T08:39:00Z,system
+vn90e8400-e29b-41d4-a716-446655440041,Aurora Energy,contact@auroraenergy.com,900000041,www.auroraenergy.com,Chennai TN India,2024-01-08T08:40:00Z,system,2024-01-08T08:40:00Z,system
+vn90e8400-e29b-41d4-a716-446655440042,Vortex Engineering,info@vortexengg.com,900000042,www.vortexengg.com,Faridabad HR India,2024-01-08T08:41:00Z,system,2024-01-08T08:41:00Z,system
+vn90e8400-e29b-41d4-a716-446655440043,Stratos Cloud,contact@stratoscloud.com,900000043,www.stratoscloud.com,Bangalore KA India,2024-01-08T08:42:00Z,system,2024-01-08T08:42:00Z,system
+vn90e8400-e29b-41d4-a716-446655440044,Keystone Finance,info@keystonefinance.com,900000044,www.keystonefinance.com,Mumbai MH India,2024-01-08T08:43:00Z,system,2024-01-08T08:43:00Z,system
+vn90e8400-e29b-41d4-a716-446655440045,BluePeak Solutions,contact@bluepeak.com,900000045,www.bluepeak.com,Pune MH India,2024-01-08T08:44:00Z,system,2024-01-08T08:44:00Z,system
+vn90e8400-e29b-41d4-a716-446655440046,CloudNine IT,info@cloudnineit.com,900000046,www.cloudnineit.com,Bangalore KA India,2024-01-08T08:45:00Z,system,2024-01-08T08:45:00Z,system
+vn90e8400-e29b-41d4-a716-446655440047,GreenField Agro,contact@greenfieldagro.com,900000047,www.greenfieldagro.com,Nashik MH India,2024-01-08T08:46:00Z,system,2024-01-08T08:46:00Z,system
+vn90e8400-e29b-41d4-a716-446655440048,IronWorks Ltd,info@ironworks.com,900000048,www.ironworks.com,Jamshedpur JH India,2024-01-08T08:47:00Z,system,2024-01-08T08:47:00Z,system
+vn90e8400-e29b-41d4-a716-446655440049,SilverLine Finance,contact@silverlinefinance.com,900000049,www.silverlinefinance.com,Indore MP India,2024-01-08T08:48:00Z,system,2024-01-08T08:48:00Z,system
+vn90e8400-e29b-41d4-a716-446655440050,NextGen Systems,info@nextgensys.com,900000050,www.nextgensys.com,Bangalore KA India,2024-01-08T08:49:00Z,system,2024-01-08T08:49:00Z,system

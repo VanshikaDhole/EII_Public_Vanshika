@@ -1,0 +1,4 @@
+code,name,descr
+SENT,Sent,Campaign message has been sent to the member
+OPEN,Opened,Campaign message has been opened by the member
+RESPONDED,Responded,Member has responded to the campaign

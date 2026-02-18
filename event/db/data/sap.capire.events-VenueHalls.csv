@@ -1,0 +1,21 @@
+ID,venue_ID,hallName,hallType,capacity,facilities
+801AB,301PQ,Grand Hall,Indoor,500,Stage, sound system, seating arrangements
+802BC,302RS,Open Arena,Outdoor,1500,Open-air seating, LED screens, parking
+803CD,303TU,Amphi Theatre,Amphitheatre,800,Stage lighting, sound system, green room
+804DE,304VW,Stadium 1,Stadium,5000,Seating, scoreboard, floodlights, concession stands
+805EF,305WX,Conference Hall A,Indoor,250,Projector, sound system, Wi-Fi
+806FG,306JK,Conference Hall B,Indoor,200,Projector, seating, Wi-Fi
+807GH,307LM,Open Field,Outdoor,1200,Grass field, sound system, tents
+808HI,308MN,Multipurpose Hall 1,Multipurpose,600,Stage, seating, sound system, lighting
+809IJ,309OP,Multipurpose Hall 2,Multipurpose,400,Stage, seating, projector, Wi-Fi
+810JK,310QR,Amphi Hall 2,Amphitheatre,700,Sound system, stage, lighting
+811KL,301PQ,Stadium 2,Stadium,8000,Seating, floodlights, scoreboard, concessions
+812LM,302RS,Indoor Arena,Indoor,1000,Sound system, seating, projector
+813MN,303TU,Outdoor Theatre,Outdoor,900,Open-air stage, seating, lighting
+814NO,304VW,Multipurpose Arena,Multipurpose,1200,Stage, sound system, lighting, seating
+815OP,305WX,Grand Amphitheatre,Amphitheatre,1500,Stage, sound system, green room, lighting
+816PQ,306JK,Small Hall,Indoor,150,Projector, seating, Wi-Fi
+817QR,307LM,Open Pavilion,Outdoor,400,Open-air seating, tents, lighting
+818RS,308MN,Multi Hall 3,Multipurpose,500,Stage, seating, sound system, projector
+819ST,309OP,Concert Hall,Indoor,600,Stage, sound system, seating, lighting
+820TU,310QR,Amphi Stage,Amphitheatre,1000,Stage, lighting, seating, green room

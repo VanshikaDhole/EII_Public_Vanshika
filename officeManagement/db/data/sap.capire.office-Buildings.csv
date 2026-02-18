@@ -1,0 +1,21 @@
+ID,name,city,country_code,address,floor
+A1B2C,Main Office,Mumbai,IN,Plot 12 Tech Park,5
+D4E5F,Headquarters,Delhi,IN,Building 8 Central Ave,7
+G6H7I,Branch Office,Pune,IN,34 Startup Street,3
+J8K9L,Regional Hub,Bangalore,IN,21 MG Road Tower,6
+M1N2O,Training Center,Hyderabad,IN,92 Learning Lane,2
+P3Q4R,Support Office,Chennai,IN,18 IT Plaza,4
+S5T6U,Sales Unit,Kolkata,IN,55 Market View,1
+V7W8X,Operations Office,Ahmedabad,IN,77 Corporate Heights,8
+Y9Z1A,Warehouse,Jaipur,IN,89 Industrial Zone,0
+B2C3D,Service Center,Noida,IN,42 Tech Boulevard,2
+E4F5G,Data Center,Mumbai,IN,15 Cyber Park,1
+H6I7J,Logistics Office,Indore,IN,63 Transport Nagar,4
+K8L9M,R&D Facility,Bangalore,IN,98 Innovation Hub,5
+N1O2P,Finance Office,Chandigarh,IN,27 Business Block,3
+Q3R4S,Marketing Office,Surat,IN,44 Crystal Tower,6
+T5U6V,Admin Office,Nagpur,IN,38 Metro Plaza,2
+W7X8Y,Design Studio,Goa,IN,71 Creative Square,1
+Z9A1B,Testing Lab,Mysore,IN,19 Tech Valley,4
+C2D3E,Security Office,Gurugram,IN,23 Safe Zone Tower,9
+F4G5H,HR Office,Bhopal,IN,56 People Plaza,3
